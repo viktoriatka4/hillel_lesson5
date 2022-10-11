@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Oswalt_Bolt";
+    src: url('../fonts/Oswald-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Oswalt_Reg";
+    src: url('../fonts/Oswald-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Oswalt_Light";
+    src: url('../fonts/Oswald-Light.ttf');
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color:papayawhip;
+}
+
+h2 {
+    font-family: "Oswalt_Bolt";
+}
+
+li {
+    font-family: "Oswalt_Reg";
+}
